@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-31T18:54:53 IST" name="Default suite" finished-at="2023-05-31T18:55:13 IST" duration-ms="20183">
+    <groups>
+    </groups>
+    <test started-at="2023-05-31T18:54:53 IST" name="Default test" finished-at="2023-05-31T18:55:13 IST" duration-ms="20183">
+      <class name="com.testrunner.Testrunner">
+        <test-method signature="browsernamelaunch()[pri:-3, instance:com.testrunner.Testrunner@7526515b]" started-at="2023-05-31T18:54:53 IST" name="browsernamelaunch" finished-at="2023-05-31T18:54:58 IST" duration-ms="5107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsernamelaunch -->
+        <test-method signature="urllaunch()[pri:-2, instance:com.testrunner.Testrunner@7526515b]" started-at="2023-05-31T18:54:58 IST" name="urllaunch" finished-at="2023-05-31T18:55:05 IST" duration-ms="6920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method signature="adulttab()[pri:2, instance:com.testrunner.Testrunner@7526515b]" started-at="2023-05-31T18:55:05 IST" name="adulttab" finished-at="2023-05-31T18:55:08 IST" duration-ms="2622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adulttab -->
+        <test-method signature="plusbutton()[pri:3, instance:com.testrunner.Testrunner@7526515b]" started-at="2023-05-31T18:55:08 IST" name="plusbutton" finished-at="2023-05-31T18:55:09 IST" duration-ms="917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- plusbutton -->
+        <test-method signature="donebutton()[pri:4, instance:com.testrunner.Testrunner@7526515b]" started-at="2023-05-31T18:55:09 IST" name="donebutton" finished-at="2023-05-31T18:55:13 IST" duration-ms="4457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- donebutton -->
+      </class> <!-- com.testrunner.Testrunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
